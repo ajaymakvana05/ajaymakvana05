@@ -1,12 +1,12 @@
-## 👶 About Me
+# 👶 About Me
 
-Hey there! I'm currently learning full-stack web development.  
+Hey there! I'm currently learning **full-stack web development**.  
 I'm not an expert (yet 😎), but I'm passionate, curious, and always ready to break things in the name of learning.
 
 ### Here's where I'm at:
-- 💻 Learning JavaScript, React, and Node.js
-- 🎨 Building basic websites with HTML, CSS, Bootstrap & Tailwind
-- 🗃️ Exploring both SQL (MySQL + Sequelize) and NoSQL (MongoDB + Mongoose)
+- 💻 Learning **JavaScript**, **React**, and **Node.js**
+- 🎨 Building basic websites with **HTML**, **CSS**, **Bootstrap**, and **Tailwind**
+- 🗃️ Exploring both **SQL** (MySQL + Sequelize) and **NoSQL** (MongoDB + Mongoose)
 - 🧠 Trying to remember what I Googled yesterday
 - 🐛 Debugging my own bugs... and sometimes creating new ones in the process
 
@@ -31,7 +31,7 @@ I'm not an expert (yet 😎), but I'm passionate, curious, and always ready to b
 
 ## 📈 GitHub Stats (When I'm Not on a Coffee Break)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?ajaymakvana05=ajaymakvana05&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymakvana05&layout=compact&theme=tokyonight)
 
 ---
 
@@ -43,11 +43,10 @@ I'm not an expert (yet 😎), but I'm passionate, curious, and always ready to b
 
 ## 📫 Reach Me (if you're not a bot)
 
-- Email: [youremail@example.com](amakavana640@gmail.com)
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/ajay-makavana)
+- 📧 Email: [amakavana640@gmail.com](mailto:amakavana640@gmail.com)
+- 🔗 LinkedIn: [ajay-makavana](https://www.linkedin.com/in/ajay-makavana)
 
-> *P.S. This README auto-deploys bugs into production every Friday at 5 PM.*
->
+> *P.S. This README auto-deploys bugs into production every Friday at 5 PM.*  
 > I believe in **learning by doing**, **Googling smart**, and **celebrating small wins** (like centering a div 🙌).
 
-Thanks for stopping by!
+Thanks for stopping by! ✌️
