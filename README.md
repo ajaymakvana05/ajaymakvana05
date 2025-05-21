@@ -1,35 +1,53 @@
-# Hi there, I'm [Your Name] 👋
+## 👶 About Me
 
-Welcome to my corner of the internet. Here’s what you didn’t ask for, but I’ll tell you anyway:
+Hey there! I'm currently learning full-stack web development.  
+I'm not an expert (yet 😎), but I'm passionate, curious, and always ready to break things in the name of learning.
 
-## 🧠 About Me
+### Here's where I'm at:
+- 💻 Learning JavaScript, React, and Node.js
+- 🎨 Building basic websites with HTML, CSS, Bootstrap & Tailwind
+- 🗃️ Exploring both SQL (MySQL + Sequelize) and NoSQL (MongoDB + Mongoose)
+- 🧠 Trying to remember what I Googled yesterday
+- 🐛 Debugging my own bugs... and sometimes creating new ones in the process
 
-- 🔭 I’m currently working on turning coffee into code
-- 🌱 I’m learning how to adult (and also TypeScript)
-- 👯 I’m looking to collaborate on memes and maybe some software too
-- 🤔 I’m thinking about thinking about AI
-- 💬 Ask me about why semicolons are optional and why I still use them
-- ⚡ Fun fact: I once broke production on a Friday. Never again.
+## 🛠️ Tech Stack I Know & Break Regularly
 
-## 🛠️ Languages and Tools
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
-## 📈 My Dev Stats
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 📈 GitHub Stats (When I'm Not on a Coffee Break)
 
-## 😂 Random Dev Quote
-
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?ajaymakvana05=ajaymakvana05&show_icons=true&theme=tokyonight)
 
 ---
 
-#### 📫 How to reach me:
-- Twitter: [@you](https://twitter.com)
-- Email: [you@email.com](mailto:you@email.com)
+## 🧩 Dev Quote That Feels Personal
 
-> *P.S. This README auto-destructs if you read it on a Monday.*
+> “It works on my machine.” – Every developer, always.
+
+---
+
+## 📫 Reach Me (if you're not a bot)
+
+- Email: [youremail@example.com](amakavana640@gmail.com)
+- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/ajay-makavana)
+
+> *P.S. This README auto-deploys bugs into production every Friday at 5 PM.*
+>
+> I believe in **learning by doing**, **Googling smart**, and **celebrating small wins** (like centering a div 🙌).
+
+Thanks for stopping by!
